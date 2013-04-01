@@ -1,4 +1,4 @@
-﻿package gredis
+package gredis
 
 import (
 	"bytes"

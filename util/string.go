@@ -1,4 +1,4 @@
-﻿package gutil
+package gutil
 
 import (
 	"bytes"
